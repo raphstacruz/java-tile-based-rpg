@@ -7,7 +7,7 @@
 
 ## 2. Roadmap
 1. Treasure Hunting Game
-    * Create game loop
+    * Create game loop (x)
     * Display player character
     * Control player character
     * Display background tiles
